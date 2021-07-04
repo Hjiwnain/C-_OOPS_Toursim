@@ -1,5 +1,7 @@
 # C++_Toursim
-A full C++ Based tourist guider terminal code which can help by displaying the data of various city about  food,Nearest tourist place,Transportation,etc. For now the code is resricted to city's such as Mumbai , Goa ,Kolkata, Delhi, ......so on Steps to use the code:- 
+A full C++ Based tourist guider terminal code which can help by displaying the data of various city about  food,Nearest tourist place,Transportation,etc. For now the code is resricted to city's such as Mumbai , Goa ,Kolkata, Delhi, ......so on 
+
+# Steps to use the code:- 
 
 Step 1:- Choose the Name of the city among the given list please insert number given infront of the city and press enter 
 
