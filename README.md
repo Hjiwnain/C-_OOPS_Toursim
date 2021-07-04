@@ -11,7 +11,7 @@ step 3:-  Now it will show u the details or sub option which is available in tha
 
 step 4:-  Now if u want to view other content u can choose or press 0 for exiting the code 
 
-# TEAM Members:- 
+# Team Members:- 
 
 1. Ayush Maheshwari (Leader)
 2. Shreyash Sompurkar 
